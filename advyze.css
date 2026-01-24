@@ -1,0 +1,10 @@
+:root {
+    --bg-dark: #0b0e14;
+    --bg-card: #161b22;
+    --accent-blue: #00d2ff;
+    --accent-green: #00ff87;
+    --accent-red: #ff4b2b;
+    --text-main: #f0f6fc;
+    --text-dim: #8b949e;
+    --border: 1px solid #30363d;
+}
