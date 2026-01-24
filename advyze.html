@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ADVYZE | Dashboard</title>
+    
+    <link rel="stylesheet" href="assets/css/variables.css">
+    <link rel="stylesheet" href="assets/css/main.css">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div class="app-container">
+        <nav class="sidebar">
+            <div class="logo">
+                <h2>ADV<span>YZE</span></h2>
+            </div>
+            <ul class="nav-menu">
+                <li class="active"><a href="#"><i class="fas fa-home"></i> Dashboard</a></li>
+                <li><a href="#"><i class="fas fa-chart-line"></i> Campanhas</a></li>
+                <li><a href="#"><i class="fas fa-users"></i> Clientes</a></li>
+            </ul>
+            <button class="btn-kill" id="killSwitch">KILL SWITCH</button>
+        </nav>
+
+        <main class="main-content">
+            <header>
+                <h1>Performance de Anúncios</h1>
+                <p>Última atualização: <span id="lastUpdate">--:--</span></p>
+            </header>
+
+            <div class="bento-grid">
+                <div class="card card-large">
+                    <h3>ROAS Geral</h3>
+                    <div class="metric-value" data-value="4.2">4.2</div>
+                    <p class="positive">+12% vs ontem</p>
+                </div>
+
+                <div class="card">
+                    <h3>CAC</h3>
+                    <div class="metric-value" data-value="42.50">R$ 42,50</div>
+                </div>
+
+                <div class="card">
+                    <h3>LTV</h3>
+                    <div class="metric-value" data-value="210">R$ 210,00</div>
+                </div>
+
+                <div class="card card-wide">
+                    <h3><i class="fas fa-stethoscope"></i> Diagnóstico Ativo</h3>
+                    <p>Campanha "Vendas Natal" está com ROAS acima da média. Sugestão: Aumentar orçamento em 15%.</p>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="assets/js/dashboard.js"></script>
+</body>
+</html>
