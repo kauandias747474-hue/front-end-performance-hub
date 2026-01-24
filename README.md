@@ -4,11 +4,11 @@
 > **Mastering HTML5, CSS3, and JavaScript through high-stakes engineering and mathematical precision.**
 > **Dominando HTML5, CSS3 e JavaScript através de engenharia de alto nível e precisão matemática.**
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Modern JS](https://img.shields.io/badge/JavaScript-ES2026-yellow.svg)
-![Performance](https://img.shields.io/badge/Lighthouse-100%2F100-brightgreen.svg)
-![Front-End](https://img.shields.io/badge/Front--End-Engineering-blue.svg)
-![Learning](https://img.shields.io/badge/Learning-Continuous_Evolution-blueviolet.svg)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Performance](https://img.shields.io/badge/Lighthouse-100%2F100-brightgreen?style=for-the-badge)
+![Learning](https://img.shields.io/badge/Learning-Continuous_Evolution-blueviolet?style=for-the-badge)
 
 ---
 
