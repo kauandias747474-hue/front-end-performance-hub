@@ -1,4 +1,4 @@
-# 🚀 Front-End High-Performance Engineering Hub
+# 🚀 Front-End Performance Hub
 ## 🇧🇷 Hub de Engenharia de Front-End de Alta Performance
 
 > **Mastering HTML5, CSS3, and JavaScript through high-stakes engineering and mathematical precision.**
