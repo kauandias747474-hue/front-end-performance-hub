@@ -63,14 +63,24 @@ Como utilizo meus cadernos e folhas A4 exclusivamente para **Matemática**, todo
 
 ---
 
-## 📩 Contato & Consultoria / Contact
+## 👨‍💻 Author & Engineering Mindset | Autoria e Engenharia
+**Kauan Oliveira** - *Systems & Security Engineer*
 
-**Precisa de interfaces de alta performance ou consultoria em engenharia de Front-End?**
-**Need high-performance interfaces or professional Front-End engineering consultancy?**
+![JavaScript Runtime](https://img.shields.io/badge/JS-Runtime-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![DOM Optimization](https://img.shields.io/badge/DOM-Optimization-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Zero Latency](https://img.shields.io/badge/Zero-Latency-blue?style=for-the-badge)
 
-* 🚀 **Project Portfolio:** [GitHub/KauanOliveira](https://github.com/kauandias747474-hue)  
-* 💼 **Freelance & SaaS Inquiries:** [Consultancy/Email](mailto:seu-email@exemplo.com)  
-* 📊 **Mathematics & Logic:** All rendering algorithms and UI physics are strictly validated via mathematical models in my research notebooks.
+**PT-BR:** Desenvolvimento de interfaces ultra-rápidas através do domínio do Event Loop e manipulação cirúrgica do DOM. A física de UI e as matrizes de transformação visual foram calculadas em papel A4 para eliminar o overhead de frameworks e garantir 60 FPS constantes.
 
+**EN-US:** Ultra-fast interface development through mastery of the Event Loop and surgical DOM manipulation. UI physics and visual transformation matrices were calculated on A4 paper to eliminate framework overhead and ensure constant 60 FPS.
+
+### 🎯 Objective
+Atualmente focado em **Freelance de Alta Performance** e **Pesquisa em Bug Bounty**. 
+
+### 📩 Connect with Me
+- **LinkedIn:** [Kauan Oliveira](https://www.linkedin.com/in/kauan-oliveira-324264378/)
+- **Bug Bounty Portfolio:** [HackerOne/Profile]
+- **Professional Email:** [Seu Email]
 ---
-**Developed by Kauan Oliveira - 2026**
+*Developed in 2026 by Kauan Oliveira / Feito em 2026 por Kauan Oliveira*
+
