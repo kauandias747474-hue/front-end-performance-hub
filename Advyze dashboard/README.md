@@ -14,7 +14,7 @@ Diferente de aplicações convencionais, o Advyze não utiliza Virtual DOM ou fr
 
 ## 📊 Estrutura do Sistema
 
-| Módulo | Responsabilidade | Stack |
+| Módulo| Responsabilidade | Stack |
 | :--- | :--- | :--- |
 | **Rendering Engine** | Minimização de Reflows & Repaints | Vanilla JS / DOM Fragments |
 | **Data Viz Engine** | Real-time charts & Telemetry | Canvas API / Matrix Transformation |
