@@ -59,7 +59,6 @@ O **Advyze** é o projeto flagship deste hub, demonstrando a aplicação prátic
 ---
 
 
-
 ## 📂 System Architecture | Arquitetura do Sistema
 
 ### 🚀 [01. Advyze-Dashboard](./01.Advyze-Dashboard)
@@ -84,7 +83,14 @@ O **Advyze** é o projeto flagship deste hub, demonstrando a aplicação prátic
 **Low-Latency Connectivity.** Infraestrutura resiliente para comunicação bi-direcional via WebSockets e SSE (Server-Sent Events), garantindo sincronização de estado em tempo real.
 
 ### 📱 [08. Offline-Resilience-Architecture](./08.Offline-Resilience-Architecture)
-**Data Persistence & PWA.** Arquitetura "Offline-First". Uso avanç
+**Data Persistence & PWA.** Arquitetura "Offline-First". Uso avançado de Service Workers e IndexedDB para garantir a continuidade do software sem dependência de conectividade.
+
+### 🧪 [09. Automated-Quality-Audit](./09.Automated-Quality-Audit)
+**Quality & Performance Assurance.** Scripts proprietários para auditoria de Core Web Vitals, conformidade de Acessibilidade (A11y) e validação de lógica de negócio.
+
+
+
+
 ---
 
 ## 👨‍💻 Author & Engineering Mindset | Autoria e Engenharia
