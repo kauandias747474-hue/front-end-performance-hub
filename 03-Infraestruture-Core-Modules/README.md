@@ -1,4 +1,4 @@
-# 03. Infrastructure Core Modules | Módulos de Infraestrutura Core
+# 🛠️ 03. Infrastructure Core Modules | Módulos de Infraestrutura Core
 
 ## 🇧🇷 Engenharia de Espectro Completo: Do Runtime à Arquitetura
 Estes são os pilares que sustentam minhas aplicações. Minha abordagem une a precisão do baixo nível (manipulação direta de hardware/recursos) com a sofisticação do alto nível (padrões de projeto escaláveis).
