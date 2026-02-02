@@ -58,9 +58,33 @@ O **Advyze** é o projeto flagship deste hub, demonstrando a aplicação prátic
 
 ---
 
-## 📊 Mathematics Applied to UI / Matemática Aplicada à UI
-Como utilizo meus cadernos e folhas A4 exclusivamente para **Matemática**, todos os cálculos de física de animação, matrizes de transformação e algoritmos de filtragem de dados aqui presentes foram rigorosamente calculados no papel. Isso garante que o código seja o reflexo fiel de um modelo matemático otimizado, unindo ciência e software.
 
+
+## 📂 System Architecture | Arquitetura do Sistema
+
+### 🚀 [01. Advyze-Dashboard](./01.Advyze-Dashboard)
+**Flagship SaaS Product.** O ponto de convergência de todo o ecossistema. Um SaaS de telemetria de alta densidade onde a engenharia de baixo nível encontra a viabilidade de mercado.
+
+### 💼 [02. Commercial-Solutions-Hub](./02.Commercial-Solutions-Hub)
+**High-Performance Business Engines.** Vitrine de soluções modulares para o mercado de Freelance (Booking, Dashboards, E-commerce). Engenharia focada em conversão, SEO e velocidade extrema.
+
+### 🛠️ [03. Infrastructure-Core-Modules](./03.Infrastructure-Core-Modules)
+**The Proprietary Engine.** O motor do ecossistema. Soluções de espectro completo (Low & High Level): Gestão de Estado via Proxy, Multithreading com Web Workers e Renderização Cirúrgica de DOM.
+
+### 🛡️ [04. Security-&-Hardening-Lab](./04.Security-&-Hardening-Lab)
+**Defensive Engineering.** Implementação de camadas de segurança nativas, isolamento de contexto (Shadow DOM) e blindagem contra vetores de ataque. Base para pesquisa em Bug Bounty.
+
+### 🔬 [05. Advanced-Web-Internals](./05.Advanced-Web-Internals)
+**R&D & Diagnostics.** Pesquisa profunda sobre os internals do Motor V8, auditoria de ciclo de vida de memória (Garbage Collection) e análise de latência do Event Loop.
+
+### 🖼️ [06. Visual-Computing-Engine](./06.Visual-Computing-Engine)
+**Graphical Pipeline Processing.** Renderização massiva de dados e manipulação de pixels via Canvas API e SVG, utilizando precisão matemática para interfaces gráficas complexas.
+
+### 📡 [07. Real-Time-Communication-Bridge](./07.Real-Time-Communication-Bridge)
+**Low-Latency Connectivity.** Infraestrutura resiliente para comunicação bi-direcional via WebSockets e SSE (Server-Sent Events), garantindo sincronização de estado em tempo real.
+
+### 📱 [08. Offline-Resilience-Architecture](./08.Offline-Resilience-Architecture)
+**Data Persistence & PWA.** Arquitetura "Offline-First". Uso avanç
 ---
 
 ## 👨‍💻 Author & Engineering Mindset | Autoria e Engenharia
@@ -81,6 +105,13 @@ Atualmente focado em **Freelance de Alta Performance** e **Pesquisa em Bug Bount
 - **LinkedIn:** [Kauan Oliveira](https://www.linkedin.com/in/kauan-oliveira-324264378/)
 - **Bug Bounty Portfolio:** [HackerOne/Profile]
 - **Professional Email:** [Seu Email]
+  
+---
+- ### 📈 Modular Evolution | Evolução Modular
+Cada diretório neste repositório representa um módulo desacoplado. Esta arquitetura permite que os componentes de infraestrutura sejam escalados de forma independente, garantindo que o software final seja robusto, sustentável e agnóstico a ferramentas de terceiros.
+
+> **"Software quality is not an act, it is a habit."**
+> **"Qualidade de software não é um ato, é um hábito."**
 ---
 *Developed in 2026 by Kauan Oliveira / Feito em 2026 por Kauan Oliveira*
 
