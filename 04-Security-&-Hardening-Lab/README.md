@@ -1,4 +1,4 @@
-# 04. Security & Hardening Lab | Lab de Segurança e Blindagem
+# 🛡️04. Security & Hardening Lab | Lab de Segurança e Blindagem
 
 ## 🇧🇷 Engenharia Defensiva e Auditoria de Origem
 Módulos dedicados à mitigação de vetores de ataque e proteção da integridade de dados. Este laboratório aplica pesquisas de Bug Bounty diretamente no desenvolvimento de software blindado.
