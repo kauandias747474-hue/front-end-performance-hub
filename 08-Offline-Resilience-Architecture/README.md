@@ -1,4 +1,4 @@
-# 08. Offline Resilience Architecture | Arquitetura de Resiliência Offline
+#📱 08. Offline Resilience Architecture | Arquitetura de Resiliência Offline
 
 ## 🇧🇷 Persistência de Dados e Continuidade de Negócio
 Esta pasta explora a capacidade de transformar aplicações web em sistemas resilientes que operam independentemente da conectividade. O foco é a "Offline-First" engineering para garantir que o usuário nunca perca produtividade.
