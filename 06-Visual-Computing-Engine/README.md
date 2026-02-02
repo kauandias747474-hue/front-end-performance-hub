@@ -1,4 +1,4 @@
-# 06. Visual Computing Engine | Engine de Computação Visual
+# 🖼️06. Visual Computing Engine | Engine de Computação Visual
 
 ## 🇧🇷 Computação Gráfica e Manipulação de Pipeline Visual
 Este módulo é focado em superar as limitações do DOM através da Canvas API e SVG. Aqui, o navegador é tratado como uma unidade de processamento gráfico para renderizar volumes massivos de dados e interfaces dinâmicas que seriam impossíveis com HTML tradicional.
