@@ -1,4 +1,4 @@
-# 07. Real-Time Communication Bridge | Ponte de Comunicação em Tempo Real
+#📡 07. Real-Time Communication Bridge | Ponte de Comunicação em Tempo Real
 
 ## 🇧🇷 Sincronização de Dados de Baixa Latência e Telemetria
 Módulos dedicados à infraestrutura de comunicação bi-direcional entre cliente e servidor. O foco é garantir que o estado da aplicação reflita a realidade do servidor em milissegundos, essencial para sistemas financeiros e dashboards de missão crítica.
