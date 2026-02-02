@@ -1,4 +1,4 @@
-# 05. Advanced Web Internals | Pesquisa de Internals da Web
+# 🔬 05. Advanced Web Internals | Pesquisa de Internals da Web
 
 ## 🇧🇷 Diagnóstico de Runtime e Pesquisa de Baixo Nível
 Espaço de R&D (Pesquisa e Desenvolvimento) focado nos mecanismos internos dos motores V8 e SpiderMonkey. O objetivo é garantir estabilidade e performance extrema em aplicações de longo ciclo de vida.
