@@ -1,27 +1,31 @@
 # 🛠️ 03. Infrastructure Core Modules | Módulos de Infraestrutura Core
 
-## 🇧🇷 Engenharia de Espectro Completo: Do Runtime à Arquitetura
-Estes são os pilares que sustentam minhas aplicações. Minha abordagem une a precisão do baixo nível (manipulação direta de hardware/recursos) com a sofisticação do alto nível (padrões de projeto escaláveis).
+### 🇧🇷 Engenharia de Espectro Completo: Do Runtime à Arquitetura
+Estes módulos são os motores de baixo nível que sustentam minhas aplicações comerciais. Enquanto a maioria dos desenvolvedores foca apenas no framework, eu construo a infraestrutura que otimiza o uso de CPU, Memória e Rede.
 
-### 🚀 O Diferencial de Engenharia
-Eu domino a "Santíssima Trindade" da Web (HTML/CSS/JS) para criar ferramentas onde o código de baixo nível garante a velocidade, enquanto a arquitetura de alto nível permite que o sistema cresça de forma organizada.
-
-### 🎯 Pilares da Infraestrutura:
-- **State-Proxy Architecture:** Gestão de estado reativa (Alto Nível) operando via interceptores de memória nativos (Baixo Nível).
-- **Runtime-Thread Orchestrator:** Multithreading gerenciado que isola lógica pesada em Web Workers para manter a fluidez da UI.
-- **Surgical-DOM Renderer:** Motor de renderização que realiza patches diretos no DOM, eliminando o custo de reconciliação.
-- **Latency-First Asset Manager:** Orquestração inteligente de recursos baseada no ambiente de rede e hardware do usuário.
+### 🇺🇸 Full-Spectrum Engineering: From Runtime to Architecture
+These modules are the low-level engines powering my commercial applications. While most developers focus on frameworks, I build the infrastructure that optimizes CPU, Memory, and Network usage.
 
 ---
 
-## 🇺🇸 Full-Spectrum Engineering: From Runtime to Architecture
-These are the pillars that power my applications. My approach bridges low-level precision (direct hardware/resource manipulation) with high-level sophistication (scalable design patterns).
+### 🔬 Módulos de Engenharia (Core Engineering Modules)
 
-### 🚀 The Engineering Edge
-I master the Web "Holy Trinity" (HTML/CSS/JS) to create tools where low-level code ensures speed, while high-level architecture allows the system to grow in an organized manner.
+| Módulo / Module | Foco Técnico (PT/EN) | Conceito Chave / Key Concept |
+| :--- | :--- | :--- |
+| `proxy-reactive-core` | Interceptação de memória nativa. / Native memory intercept. | **State-Proxy Architecture** |
+| `worker-orchestrator` | Multithreading gerenciado via Workers. / Managed Multithreading. | **Runtime-Thread Orchestrator** |
+| `surgical-renderer` | Patches diretos no DOM (Zero Reconcile). / Direct DOM patches. | **Surgical-DOM Renderer** |
+| `adaptive-loader` | Orquestração baseada em Hardware. / Hardware-based orchestration. | **Latency-First Asset Manager** |
+| `heap-monitor` | Monitoramento de integridade de memória. / Memory integrity monitoring. | **Memory Leak Guardian** |
 
-### 🎯 Infrastructure Pillars:
-- **State-Proxy Architecture:** Reactive state management (High-Level) operating via native memory interceptors (Low-Level).
-- **Runtime-Thread Orchestrator:** Managed multi-threading that offloads heavy logic to Web Workers to keep UI fluidity.
-- **Surgical-DOM Renderer:** Rendering engine that performs direct DOM patches, eliminating reconciliation costs.
-- **Latency-First Asset Manager:** Intelligent resource orchestration based on user network and hardware environment.
+---
+
+### 🚀 O Diferencial de Engenharia (The Edge)
+
+> [!IMPORTANT]
+> **Low-Level Web Engineering:** Ao dominar APIs nativas como `Proxy`, `Web Workers` e `Performance API`, elimino o "overhead" de abstrações desnecessárias, entregando interfaces que rodam a 60 FPS estáveis mesmo em hardware limitado.
+
+---
+
+### 👨‍💻 Autor
+**Kauan Oliveira** | Engenheiro de Sistemas (Low-Level Web Spec)
