@@ -1,10 +1,10 @@
 # 🛠️ 03. Infrastructure Core Modules | Módulos de Infraestrutura Core
 
-### 🇧🇷 Engenharia de Espectro Completo: Do Runtime à Arquitetura
-Estes módulos são os motores de baixo nível que sustentam minhas aplicações comerciais. Enquanto a maioria dos desenvolvedores foca apenas no framework, eu construo a infraestrutura que otimiza o uso de CPU, Memória e Rede.
+### 🇧🇷 Arquitetura Escalável: Do Design System à Segurança
+Estes módulos representam a espinha dorsal das minhas aplicações. O foco aqui é **Escalabilidade** e **Manutenibilidade**, criando uma base sólida onde novos recursos podem ser acoplados com o mínimo de esforço e o máximo de consistência.
 
-### 🇺🇸 Full-Spectrum Engineering: From Runtime to Architecture
-These modules are the low-level engines powering my commercial applications. While most developers focus on frameworks, I build the infrastructure that optimizes CPU, Memory, and Network usage.
+### 🇺🇸 Scalable Architecture: From Design System to Security
+These modules represent the backbone of my applications. The focus here is on **Scalability** and **Maintainability**, creating a solid foundation where new features can be attached with minimal effort and maximum consistency.
 
 ---
 
@@ -12,20 +12,20 @@ These modules are the low-level engines powering my commercial applications. Whi
 
 | Módulo / Module | Foco Técnico (PT/EN) | Conceito Chave / Key Concept |
 | :--- | :--- | :--- |
-| `proxy-reactive-core` | Interceptação de memória nativa. / Native memory intercept. | **State-Proxy Architecture** |
-| `worker-orchestrator` | Multithreading gerenciado via Workers. / Managed Multithreading. | **Runtime-Thread Orchestrator** |
-| `surgical-renderer` | Patches diretos no DOM (Zero Reconcile). / Direct DOM patches. | **Surgical-DOM Renderer** |
-| `adaptive-loader` | Orquestração baseada em Hardware. / Hardware-based orchestration. | **Latency-First Asset Manager** |
-| `heap-monitor` | Monitoramento de integridade de memória. / Memory integrity monitoring. | **Memory Leak Guardian** |
+| `design-system` | Componentização baseada em Tokens. / Token-based components. | **Visual Consistency** |
+| `auth-provider` | Gestão de permissões e segurança. / RBAC & Security management. | **Access Control** |
+| `query-orchestrator` | Abstração de API e Cache Global. / API Abstraction & Cache. | **Data Integrity** |
+| `i18n-engine` | Localização e suporte multi-idioma. / Dynamic localization. | **Global Scalability** |
+| `form-factory` | Gerador de UI baseado em esquemas. / Schema-based UI generator. | **Rapid Prototyping** |
 
 ---
 
 ### 🚀 O Diferencial de Engenharia (The Edge)
 
-> [!IMPORTANT]
-> **Low-Level Web Engineering:** Ao dominar APIs nativas como `Proxy`, `Web Workers` e `Performance API`, elimino o "overhead" de abstrações desnecessárias, entregando interfaces que rodam a 60 FPS estáveis mesmo em hardware limitado.
+> [!TIP]
+> **Arquitetura Plug-and-Play:** Cada módulo é projetado para ser independente e reutilizável. Isso permite que eu inicie novos projetos comerciais (Hub 02) com 70% da fundação técnica já pronta e testada.
 
 ---
 
 ### 👨‍💻 Autor
-**Kauan Oliveira** | Engenheiro de Sistemas (Low-Level Web Spec)
+**Kauan Oliveira** | Engenheiro de Software (Software Architecture Focus)
