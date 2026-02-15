@@ -1,25 +1,31 @@
-#📱 08. Offline Resilience Architecture | Arquitetura de Resiliência Offline
+# 📱 08. Offline Resilience Architecture | Arquitetura de Resiliência Offline
 
-## 🇧🇷 Persistência de Dados e Continuidade de Negócio
-Esta pasta explora a capacidade de transformar aplicações web em sistemas resilientes que operam independentemente da conectividade. O foco é a "Offline-First" engineering para garantir que o usuário nunca perca produtividade.
+### 🇧🇷 Persistência de Dados e Continuidade de Negócio
+Esta pasta explora a engenharia de sistemas **Offline-First**. O objetivo é garantir que a aplicação web deixe de ser dependente de rede e passe a operar como um software nativo, utilizando o armazenamento local para garantir produtividade ininterrupta.
 
-### 🚀 O Diferencial de Engenharia
-O site deixa de ser uma página e passa a ser um software instalado no cache. Utilizo Service Workers e IndexedDB para criar uma camada de persistência robusta que sincroniza dados em segundo plano assim que a conexão é restaurada.
-
-### 🎯 Estratégias de Resiliência:
-- **Service Worker Lifecycle:** Gestão agressiva de cache para carregamento instantâneo (Instant Loading).
-- **IndexedDB Wrappers:** Camada de banco de dados local para armazenamento de estados complexos e grandes volumes de dados offline.
-- **Background Sync:** Orquestração de tarefas de rede adiadas para garantir que nenhuma ação do usuário seja perdida.
+### 🇺🇸 Data Persistence & Business Continuity
+This folder explores **Offline-First** systems engineering. The goal is to ensure the web application stops being network-dependent and operates like native software, using local storage to guarantee uninterrupted productivity.
 
 ---
 
-## 🇺🇸 Data Persistence & Business Continuity
-This folder explores the capability of turning web applications into resilient systems that operate independently of connectivity. The focus is on "Offline-First" engineering to ensure the user never loses productivity.
+### 🔬 Estratégias de Resiliência (Resilience Strategies)
 
-### 🚀 The Engineering Edge
-The website stops being just a page and becomes software installed in the cache. I use Service Workers and IndexedDB to create a robust persistence layer that synchronizes data in the background once the connection is restored.
+| Módulo / Module | Foco Técnico (PT/EN) | Conceito Chave / Key Concept |
+| :--- | :--- | :--- |
+| `cache-orchestrator` | Gestão agressiva de Service Workers. / Aggressive SW management. | **Service Worker Lifecycle** |
+| `indexeddb-layer` | Banco de dados local para estados complexos. / Local DB for complex states. | **IndexedDB Wrappers** |
+| `sync-manager` | Sincronização de tarefas adiadas. / Deferred task synchronization. | **Background Sync** |
+| `state-hydrator` | Persistência de estado de aplicação. / App state persistence. | **State Hydration** |
+| `versioning-core` | Controle de integridade de cache. / Cache integrity control. | **Asset Management** |
 
-### 🎯 Resilience Strategies:
-- **Service Worker Lifecycle:** Aggressive cache management for Instant Loading.
-- **IndexedDB Wrappers:** Local database layer for storing complex states and large volumes of offline data.
-- **Background Sync:** Orchestration of deferred network tasks to ensure no user action is lost.
+---
+
+### 🚀 O Diferencial de Engenharia (The Edge)
+
+> [!IMPORTANT]
+> **Offline-First UX:** Em minha abordagem, a falta de conexão não é um erro, é um estado da aplicação. Utilizo **IndexedDB** para garantir que dados pesados sejam persistidos e **Service Workers** para que o carregamento seja instantâneo, independentemente da latência da rede.
+
+---
+
+### 👨‍💻 Autor
+**Kauan Oliveira** | Engenheiro de Sistemas (Offline-First Specialist)
