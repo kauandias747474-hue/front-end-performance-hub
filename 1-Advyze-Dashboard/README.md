@@ -33,10 +33,8 @@ Este dashboard foi desenvolvido com foco em **Senioridade Agnóstica a Framework
 ## 👨‍💻 Autor & Engenharia
 
 **Kauan Oliveira** - *Systems & Security Engineer*
-> Atualmente focado em **Freelance de Alta Performance** e **Pesquisa em Bug Bounty**.
-
+> Atualmente focado em **Freelance de Alta Performance** 
 * **LinkedIn:** [Kauan Oliveira](https://www.linkedin.com/in/kauan-oliveira-61199a2b8/)
-* **Bug Bounty Portfolio:** [HackerOne/Profile]
 
 ---
 
